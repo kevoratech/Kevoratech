@@ -3,8 +3,8 @@
 <!-- ============================================= -->
 
 <div align="center">
+<img width="300" alt="Kevora web-01" src="https://github.com/user-attachments/assets/35601c18-91c8-473d-bf0f-674e598879a2" />
 
-<img src="file:///Users/chamindua/Downloads/Kevora%20web-01%20(1).jpg" alt="KEVORA" width="300"/>
 
 ### Enterprise Cloud Engineering • Kubernetes • DevOps • Automation
 
