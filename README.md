@@ -4,9 +4,7 @@
 
 <div align="center">
 
-<img src="https://kevoratech.com/Kevora-web-1600.png" alt="KEVORA" width="300"/>
-
-# ☁️ KEVORA
+<img src="https://drive.google.com/file/d/1meX79tXflWYhZBiO88N7IViWSqmXwsb3/view?usp=sharing" alt="KEVORA" width="300"/>
 
 ### Enterprise Cloud Engineering • Kubernetes • DevOps • Automation
 
