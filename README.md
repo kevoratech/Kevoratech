@@ -1,46 +1,139 @@
+<!-- ============================================= -->
+<!--               KEVORA PROFILE README          -->
+<!-- ============================================= -->
+
+<div align="center">
+
+<img src="https://kevoratech.com/Kevora-web-1600.png" alt="KEVORA" width="300"/>
+
 # ☁️ KEVORA
 
-Enterprise Cloud Engineering & DevOps Solutions
+### Enterprise Cloud Engineering • Kubernetes • DevOps • Automation
 
-We help organizations build secure, scalable, and automated cloud infrastructure using modern DevOps practices.
+**Designing secure, scalable, and automated cloud platforms for modern enterprises.**
 
-## 🚀 What We Do
+[![Website](https://img.shields.io/badge/Website-kevoratech.com-0D6EFD?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kevoratech.com)
+[![Medium](https://img.shields.io/badge/Medium-Articles-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kevoratech)
+[![GitHub](https://img.shields.io/badge/GitHub-kevoratech-181717?style=for-the-badge&logo=github)](https://github.com/kevoratech)
 
-- Cloud Infrastructure Engineering
-- Kubernetes & Container Platforms
-- CI/CD Automation
-- Infrastructure as Code
-- Cloud Migration
-- Observability & Monitoring
-- DevSecOps
-
-## 🛠️ Technologies
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-
-## 📂 Featured Projects
-
-- Enterprise Kubernetes Platforms
-- AWS Cloud Infrastructure
-- CI/CD Automation Pipelines
-- Observability & Monitoring Solutions
-- Terraform Infrastructure Modules
-
-## 🌐 Connect
-
-- Website: https://kevoratech.com
-- Medium: https://medium.com/@kevoratech
-- GitHub: https://github.com/kevoratech
+</div>
 
 ---
 
-**Building reliable cloud platforms that scale.**
+# ☁️ About KEVORA
+
+KEVORA is a Cloud Engineering and DevOps consultancy specializing in designing, deploying, and operating enterprise-grade cloud and on-premises infrastructure.
+
+We help organizations modernize their platforms using Kubernetes, Infrastructure as Code, CI/CD automation, cloud migration, and observability solutions—delivering secure, scalable, and highly available environments for mission-critical workloads.
+
+---
+
+# 🚀 Core Services
+
+- ☁️ Cloud Infrastructure Engineering
+- ☸️ Kubernetes & Container Platforms
+- 🔄 CI/CD Pipeline Automation
+- 📦 Infrastructure as Code (IaC)
+- 🚚 Cloud Migration
+- 📊 Monitoring & Observability
+- 🔒 DevSecOps
+- 🐧 Linux System Administration
+- ⚙️ Platform Engineering
+- 🏢 Enterprise Infrastructure Solutions
+
+---
+
+# 🛠 Technology Stack
+
+### ☁️ Cloud Platforms
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+
+### ☸️ Containers & Orchestration
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=flat-square&logo=redhatopenshift&logoColor=white)
+
+### 🚀 CI/CD
+
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+### 🏗 Infrastructure as Code
+
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+
+### 📈 Monitoring & Logging
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![ELK Stack](https://img.shields.io/badge/ELK-005571?style=flat-square&logo=elastic&logoColor=white)
+
+### 💻 Operating Systems
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+# 🏗 Areas of Expertise
+
+- Enterprise Kubernetes Platforms
+- Cloud Infrastructure Architecture
+- AWS Platform Engineering
+- OpenShift Administration
+- Infrastructure Automation
+- GitOps & CI/CD
+- Cloud Migration
+- Platform Modernization
+- High Availability & Disaster Recovery
+- Monitoring & Observability
+- Enterprise Logging Solutions
+
+---
+
+# ⭐ Featured Solutions
+
+- ☸️ Enterprise Kubernetes Platforms
+- ☁️ AWS Cloud Infrastructure
+- 🚀 CI/CD Automation Pipelines
+- 📊 Enterprise Monitoring Platforms
+- 📦 Infrastructure as Code Solutions
+- 🔐 Secure Cloud Architecture
+- 🏢 Enterprise DevOps Platforms
+
+---
+
+# 📚 Latest Engineering Articles
+
+We regularly publish technical guides and implementation stories covering Cloud Engineering, Kubernetes, DevOps Automation, and Enterprise Infrastructure.
+
+➡️ **https://medium.com/@kevoratech**
+
+---
+
+# 🤝 Connect With Us
+
+🌐 Website  
+https://kevoratech.com
+
+📚 Medium  
+https://medium.com/@kevoratech
+
+💻 GitHub  
+https://github.com/kevoratech
+
+📧 Email  
+kevoratech@gmail.com
+
+---
+
+<div align="center">
+
+### Engineering secure, scalable, and automated cloud platforms for modern enterprises.
+
+⭐ **Building Infrastructure That Scales.**
+
+</div>
