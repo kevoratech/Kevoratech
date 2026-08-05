@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://drive.google.com/file/d/1meX79tXflWYhZBiO88N7IViWSqmXwsb3/view?usp=sharing" alt="KEVORA" width="300"/>
+<img src="[https://drive.google.com/file/d/1meX79tXflWYhZBiO88N7IViWSqmXwsb3/view?usp=sharing](https://drive.google.com/file/d/1f0GU_tnM7171NdmFnY4Vz5ReMgYoNlmo/view?usp=sharing)" alt="KEVORA" width="300"/>
 
 ### Enterprise Cloud Engineering • Kubernetes • DevOps • Automation
 
