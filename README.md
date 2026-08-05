@@ -1,5 +1,5 @@
 <!-- ============================================= -->
-<!--               KEVORA PROFILE README          -->
+<!--               KEVORA PROFILE README           -->
 <!-- ============================================= -->
 
 <div align="center">
@@ -10,10 +10,10 @@
 
 ### Enterprise Cloud Engineering • Kubernetes • DevOps • Automation
 
-**Designing secure, scalable, and automated cloud platforms for modern enterprises.**
+**Engineering secure, scalable, and automated cloud platforms for modern enterprises.**
 
 [![Website](https://img.shields.io/badge/Website-kevoratech.com-0D6EFD?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kevoratech.com)
-[![Medium](https://img.shields.io/badge/Medium-Articles-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kevoratech)
+[![Medium](https://img.shields.io/badge/Medium-Engineering%20Articles-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kevoratech)
 [![GitHub](https://img.shields.io/badge/GitHub-kevoratech-181717?style=for-the-badge&logo=github)](https://github.com/kevoratech)
 
 </div>
@@ -22,7 +22,7 @@
 
 # ☁️ About KEVORA
 
-KEVORA is a Cloud Engineering and DevOps consultancy specializing in designing, deploying, and operating enterprise-grade cloud and on-premises infrastructure.
+KEVORA is a Cloud Engineering and DevOps consultancy specializing in designing, deploying, automating, and operating enterprise-grade cloud and on-premises infrastructure.
 
 We help organizations modernize their platforms using Kubernetes, Infrastructure as Code, CI/CD automation, cloud migration, and observability solutions—delivering secure, scalable, and highly available environments for mission-critical workloads.
 
@@ -37,7 +37,8 @@ We help organizations modernize their platforms using Kubernetes, Infrastructure
 - 🚚 Cloud Migration
 - 📊 Monitoring & Observability
 - 🔒 DevSecOps
-- 🐧 Linux System Administration
+- 🐧 Linux Administration
+- 🪟 Windows Server Administration
 - ⚙️ Platform Engineering
 - 🏢 Enterprise Infrastructure Solutions
 
@@ -45,15 +46,14 @@ We help organizations modernize their platforms using Kubernetes, Infrastructure
 
 # 🛠 Technology Stack
 
-### ☁️ Cloud Platforms
+### ☁️ Cloud
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
-### ☸️ Containers & Orchestration
+### ☸️ Containers
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=flat-square&logo=redhatopenshift&logoColor=white)
 
 ### 🚀 CI/CD
 
@@ -64,7 +64,6 @@ We help organizations modernize their platforms using Kubernetes, Infrastructure
 ### 🏗 Infrastructure as Code
 
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
 
 ### 📈 Monitoring & Logging
 
@@ -75,22 +74,23 @@ We help organizations modernize their platforms using Kubernetes, Infrastructure
 ### 💻 Operating Systems
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white)
 
 ---
 
 # 🏗 Areas of Expertise
 
 - Enterprise Kubernetes Platforms
-- Cloud Infrastructure Architecture
-- AWS Platform Engineering
-- OpenShift Administration
+- AWS Cloud Engineering
+- Platform Engineering
 - Infrastructure Automation
 - GitOps & CI/CD
+- Infrastructure as Code
 - Cloud Migration
-- Platform Modernization
+- Enterprise Monitoring
+- Logging & Observability
 - High Availability & Disaster Recovery
-- Monitoring & Observability
-- Enterprise Logging Solutions
+- Linux & Windows Server Administration
 
 ---
 
@@ -106,9 +106,9 @@ We help organizations modernize their platforms using Kubernetes, Infrastructure
 
 ---
 
-# 📚 Latest Engineering Articles
+# 📚 Engineering Articles
 
-We regularly publish technical guides and implementation stories covering Cloud Engineering, Kubernetes, DevOps Automation, and Enterprise Infrastructure.
+We publish practical implementation guides, architecture insights, and real-world project stories covering Cloud Engineering, Kubernetes, DevOps, Automation, and Enterprise Infrastructure.
 
 ➡️ **https://medium.com/@kevoratech**
 
@@ -116,17 +116,17 @@ We regularly publish technical guides and implementation stories covering Cloud 
 
 # 🤝 Connect With Us
 
-🌐 Website  
+🌐 **Website**  
 https://kevoratech.com
 
-📚 Medium  
+📚 **Medium**  
 https://medium.com/@kevoratech
 
-💻 GitHub  
+💻 **GitHub**  
 https://github.com/kevoratech
 
-📧 Email  
-kevoratech@gmail.com
+📧 **Email**  
+support@kevoratech.com
 
 ---
 
@@ -134,6 +134,6 @@ kevoratech@gmail.com
 
 ### Engineering secure, scalable, and automated cloud platforms for modern enterprises.
 
-⭐ **Building Infrastructure That Scales.**
+**⭐ Building Infrastructure That Scales.**
 
 </div>
