@@ -28,16 +28,13 @@ We help organizations modernize their platforms using Kubernetes, Infrastructure
 
 # 🚀 Core Services
 
-- ☁️ Cloud Infrastructure Engineering
+- ☁️ AWS Infrastructure Engineering
 - ☸️ Kubernetes & Container Platforms
 - 🔄 CI/CD Pipeline Automation
 - 📦 Infrastructure as Code (IaC)
 - 🚚 Cloud Migration
 - 📊 Monitoring & Observability
-- 🔒 DevSecOps
 - 🐧 Linux Administration
-- 🪟 Windows Server Administration
-- ⚙️ Platform Engineering
 - 🏢 Enterprise Infrastructure Solutions
 
 ---
