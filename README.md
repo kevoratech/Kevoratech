@@ -22,7 +22,7 @@
 
 KEVORA is a Cloud Engineering and DevOps consultancy specializing in designing, deploying, automating, and operating enterprise-grade cloud and on-premises infrastructure.
 
-We help organizations modernize their platforms using Kubernetes, Infrastructure as Code, CI/CD automation, cloud migration, and observability solutions—delivering secure, scalable, and highly available environments for mission-critical workloads.
+We help organizations modernize their platforms using Kubernetes, Infrastructure as Code, CI/CD automation, cloud migration, and observability solutions delivering secure, scalable, and highly available environments for mission-critical workloads.
 
 ---
 
